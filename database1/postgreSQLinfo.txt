@@ -1,0 +1,3 @@
+username: postgres
+pw:k0ttbu****
+port:5432
